@@ -1,0 +1,35 @@
+F:\ITI Internship\Mira App\eimination\eimination\bin\Debug\net6.0-windows\eimination.exe
+F:\ITI Internship\Mira App\eimination\eimination\bin\Debug\net6.0-windows\eimination.deps.json
+F:\ITI Internship\Mira App\eimination\eimination\bin\Debug\net6.0-windows\eimination.runtimeconfig.json
+F:\ITI Internship\Mira App\eimination\eimination\bin\Debug\net6.0-windows\eimination.dll
+F:\ITI Internship\Mira App\eimination\eimination\bin\Debug\net6.0-windows\eimination.pdb
+F:\ITI Internship\Mira App\eimination\eimination\obj\Debug\net6.0-windows\eimination.csproj.AssemblyReference.cache
+F:\ITI Internship\Mira App\eimination\eimination\obj\Debug\net6.0-windows\eimination.Form1.resources
+F:\ITI Internship\Mira App\eimination\eimination\obj\Debug\net6.0-windows\eimination.csproj.GenerateResource.cache
+F:\ITI Internship\Mira App\eimination\eimination\obj\Debug\net6.0-windows\eimination.GeneratedMSBuildEditorConfig.editorconfig
+F:\ITI Internship\Mira App\eimination\eimination\obj\Debug\net6.0-windows\eimination.AssemblyInfoInputs.cache
+F:\ITI Internship\Mira App\eimination\eimination\obj\Debug\net6.0-windows\eimination.AssemblyInfo.cs
+F:\ITI Internship\Mira App\eimination\eimination\obj\Debug\net6.0-windows\eimination.csproj.CoreCompileInputs.cache
+F:\ITI Internship\Mira App\eimination\eimination\obj\Debug\net6.0-windows\eimination.dll
+F:\ITI Internship\Mira App\eimination\eimination\obj\Debug\net6.0-windows\refint\eimination.dll
+F:\ITI Internship\Mira App\eimination\eimination\obj\Debug\net6.0-windows\eimination.pdb
+F:\ITI Internship\Mira App\eimination\eimination\obj\Debug\net6.0-windows\eimination.genruntimeconfig.cache
+F:\ITI Internship\Mira App\eimination\eimination\obj\Debug\net6.0-windows\ref\eimination.dll
+G:\Faculty Projects\Linear\eimination\eimination\bin\Debug\net6.0-windows\eimination.exe
+G:\Faculty Projects\Linear\eimination\eimination\bin\Debug\net6.0-windows\eimination.deps.json
+G:\Faculty Projects\Linear\eimination\eimination\bin\Debug\net6.0-windows\eimination.runtimeconfig.json
+G:\Faculty Projects\Linear\eimination\eimination\bin\Debug\net6.0-windows\eimination.dll
+G:\Faculty Projects\Linear\eimination\eimination\bin\Debug\net6.0-windows\eimination.pdb
+G:\Faculty Projects\Linear\eimination\eimination\obj\Debug\net6.0-windows\eimination.csproj.AssemblyReference.cache
+G:\Faculty Projects\Linear\eimination\eimination\obj\Debug\net6.0-windows\eimination.Form1.resources
+G:\Faculty Projects\Linear\eimination\eimination\obj\Debug\net6.0-windows\eimination.csproj.GenerateResource.cache
+G:\Faculty Projects\Linear\eimination\eimination\obj\Debug\net6.0-windows\eimination.GeneratedMSBuildEditorConfig.editorconfig
+G:\Faculty Projects\Linear\eimination\eimination\obj\Debug\net6.0-windows\eimination.AssemblyInfoInputs.cache
+G:\Faculty Projects\Linear\eimination\eimination\obj\Debug\net6.0-windows\eimination.AssemblyInfo.cs
+G:\Faculty Projects\Linear\eimination\eimination\obj\Debug\net6.0-windows\eimination.csproj.CoreCompileInputs.cache
+G:\Faculty Projects\Linear\eimination\eimination\obj\Debug\net6.0-windows\eimination.dll
+G:\Faculty Projects\Linear\eimination\eimination\obj\Debug\net6.0-windows\refint\eimination.dll
+G:\Faculty Projects\Linear\eimination\eimination\obj\Debug\net6.0-windows\eimination.pdb
+G:\Faculty Projects\Linear\eimination\eimination\obj\Debug\net6.0-windows\eimination.genruntimeconfig.cache
+G:\Faculty Projects\Linear\eimination\eimination\obj\Debug\net6.0-windows\ref\eimination.dll
+G:\Faculty Projects\Linear\eimination\eimination\obj\Debug\net6.0-windows\eimination.Properties.Resources.resources
